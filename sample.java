@@ -1,10 +1,3 @@
 Class Sample
 {
-
-
-
-*******************EDITED**********************888
-
-
-
-sstem.out.println("We are working");
+System.out.println("We are working");
